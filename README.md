@@ -1,4 +1,4 @@
-# Using-Data with R
+# Using and manipulating Data with R
 
 Accessing Data Within R
 
